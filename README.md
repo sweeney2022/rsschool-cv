@@ -1,4 +1,4 @@
 # rsschool-cv 
-1)https://GITHUB-sweeney2022.github.io/rsschool-cv/cv
+1)https-github-sweeney2022.github.io-rsschool-cv-cvv
 2)https://sweeney2022.github.io/rsschool-cv/cv
 3)https://sweeney2022.github.io/rsschool-cv/
